@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>ShopEasy</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>ShopEasy - Online Store</h1>
+    <div class="product">
+        <h2>Product 1</h2>
+        <p>$10.00</p>
+        <button>Add to Cart</button>
+    </div>
+</body>
+</html>
